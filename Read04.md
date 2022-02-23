@@ -29,4 +29,4 @@
 - Unordered lists are for lists where the order of the items doesn't matter. These are wrapped in a <ul> element.
 - Ordered lists are for lists where the order of the items does matter. These are wrapped in an <ol> element.
 - Semantics in HTML: A semantic element gives the text it wraps around the role or meaning.
-  Examples: <article>, <aside>, <details>, <figcaption>, <figure>, <footer>, <header>, <main>, <mark>.
+  Examples: article, footer, header, main, mark.
