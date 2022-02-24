@@ -15,7 +15,7 @@ Hi! my name is Stanley Wilder. I'm from Los Angeles, Ca. I love all things cars,
 
 # Notes!
 
-[Read 03](https://github.com/stanwilder/reading-notes/blob/main/read03.md)
-[Read 04](https://github.com/stanwilder/reading-notes/blob/main/Read04.md)
-[Read 05](https://github.com/stanwilder/reading-notes/blob/main/read05.md)
-[Read 06](https://github.com/stanwilder/reading-notes/blob/main/read06.md)
+- [Read 03](https://github.com/stanwilder/reading-notes/blob/main/read03.md)
+- [Read 04](https://github.com/stanwilder/reading-notes/- blob/main/Read04.md)
+- [Read 05](https://github.com/stanwilder/reading-notes/blob/main/read05.md)
+- [Read 06](https://github.com/stanwilder/reading-notes/blob/main/read06.md)
