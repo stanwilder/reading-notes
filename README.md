@@ -12,3 +12,10 @@ Here is a good little read I liked a lot for an analyzation on the [quote](https
 
 #### About me. :grinning:
 Hi! my name is Stanley Wilder. I'm from Los Angeles, Ca. I love all things cars, sports, and fitness. I'm an aspiring software developer learning with CodeFellows. Very out going and eager to learn! My github profile is linked [here](https://github.com/stanwilder).
+
+# Notes!
+
+[Read 03](https://github.com/stanwilder/reading-notes/blob/main/read03.md)
+[Read 04](https://github.com/stanwilder/reading-notes/blob/main/Read04.md)
+[Read 05](https://github.com/stanwilder/reading-notes/blob/main/read05.md)
+[Read 06](https://github.com/stanwilder/reading-notes/blob/main/read06.md)
