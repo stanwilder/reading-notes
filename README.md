@@ -24,7 +24,7 @@ Hi! my name is Stanley Wilder. I'm from Los Angeles, Ca. I love all things cars,
 - [Read 06](https://github.com/stanwilder/reading-notes/blob/main/read06.md) 
 
 ## 201 Notes!
-- [Read 1]()
+- [Read 1](https://github.com/stanwilder/reading-notes/blob/main/201read1.md)
 
 - [Read 2]()
 
