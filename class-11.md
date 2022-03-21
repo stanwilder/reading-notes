@@ -17,3 +17,13 @@
 - Look at keywords that your customers or ausdience are likely to enter into a search engine. 
 
 - A method for your research is sign up for google analytics. Every time a person loads a page of your site, the tracking code sends data to google then provides a web based interface that allows you to see how someone got to your site. 
+
+## Online reading
+
+- <video> and <audio> elements allow us to add video and audio into web pages.
+
+- Part of the HTML5 spec, the HTMLMediaElement API provides features to allow you to control video and audio players programmatically. 
+
+<!-- developer.mozilla.org -->
+
+- 
