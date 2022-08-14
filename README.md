@@ -1,4 +1,4 @@
-# My 201 Learning Journal
+# My Learning Journal
 
 ## Growth Mindset :facepunch:
 A growth mindset to me is a very differtent way of thinking. It requires discipline, a down sizing of your ego and a ***lot*** of self motivation. 
